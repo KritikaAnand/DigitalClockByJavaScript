@@ -10,3 +10,4 @@ A simple and elegant digital clock created using HTML, CSS, and JavaScript. This
 HTML: The backbone of the clock, providing the structure and semantics.
 CSS: Adds style and sophistication with smooth layouts, eye-catching fonts, and vibrant colors.
 JavaScript: Brings the clock to life with dynamic updates and precise timekeeping.
+![Screenshot 2024-08-02 162056](https://github.com/user-attachments/assets/3d2bed18-e0e8-478d-a39c-c1df40f22b9b)
